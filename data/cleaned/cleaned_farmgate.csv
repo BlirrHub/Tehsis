@@ -1,7 +1,7 @@
 Geolocation,Commodity,Date,Price
 bangsamoro autonomous region in muslim mindanao (barmm),"corngrain [maize] white, matured",2020-01-01,8.27
 bangsamoro autonomous region in muslim mindanao (barmm),"corngrain [maize] white, matured",2020-02-01,8.45
-bangsamoro autonomous region in muslim mindanao (barmm),"corngrain [maize] white, matured",2020-03-01,
+bangsamoro autonomous region in muslim mindanao (barmm),"corngrain [maize] white, matured",2020-03-01,8.45
 bangsamoro autonomous region in muslim mindanao (barmm),"corngrain [maize] white, matured",2020-04-01,7.02
 bangsamoro autonomous region in muslim mindanao (barmm),"corngrain [maize] white, matured",2020-05-01,8.81
 bangsamoro autonomous region in muslim mindanao (barmm),"corngrain [maize] white, matured",2020-06-01,10.32
@@ -61,8 +61,8 @@ bangsamoro autonomous region in muslim mindanao (barmm),"corngrain [maize] white
 bangsamoro autonomous region in muslim mindanao (barmm),"corngrain [maize] white, matured",2024-12-01,11.72
 bangsamoro autonomous region in muslim mindanao (barmm),"corngrain [maize] yellow, matured",2020-01-01,11.47
 bangsamoro autonomous region in muslim mindanao (barmm),"corngrain [maize] yellow, matured",2020-02-01,11.86
-bangsamoro autonomous region in muslim mindanao (barmm),"corngrain [maize] yellow, matured",2020-03-01,
-bangsamoro autonomous region in muslim mindanao (barmm),"corngrain [maize] yellow, matured",2020-04-01,
+bangsamoro autonomous region in muslim mindanao (barmm),"corngrain [maize] yellow, matured",2020-03-01,11.86
+bangsamoro autonomous region in muslim mindanao (barmm),"corngrain [maize] yellow, matured",2020-04-01,11.86
 bangsamoro autonomous region in muslim mindanao (barmm),"corngrain [maize] yellow, matured",2020-05-01,11.67
 bangsamoro autonomous region in muslim mindanao (barmm),"corngrain [maize] yellow, matured",2020-06-01,12.2
 bangsamoro autonomous region in muslim mindanao (barmm),"corngrain [maize] yellow, matured",2020-07-01,12.08
@@ -121,8 +121,8 @@ bangsamoro autonomous region in muslim mindanao (barmm),"corngrain [maize] yello
 bangsamoro autonomous region in muslim mindanao (barmm),"corngrain [maize] yellow, matured",2024-12-01,11.68
 bangsamoro autonomous region in muslim mindanao (barmm),"palay [paddy] other variety, dry (conv. to 14% mc)",2020-01-01,14.71
 bangsamoro autonomous region in muslim mindanao (barmm),"palay [paddy] other variety, dry (conv. to 14% mc)",2020-02-01,15.1
-bangsamoro autonomous region in muslim mindanao (barmm),"palay [paddy] other variety, dry (conv. to 14% mc)",2020-03-01,
-bangsamoro autonomous region in muslim mindanao (barmm),"palay [paddy] other variety, dry (conv. to 14% mc)",2020-04-01,
+bangsamoro autonomous region in muslim mindanao (barmm),"palay [paddy] other variety, dry (conv. to 14% mc)",2020-03-01,15.1
+bangsamoro autonomous region in muslim mindanao (barmm),"palay [paddy] other variety, dry (conv. to 14% mc)",2020-04-01,15.1
 bangsamoro autonomous region in muslim mindanao (barmm),"palay [paddy] other variety, dry (conv. to 14% mc)",2020-05-01,20.48
 bangsamoro autonomous region in muslim mindanao (barmm),"palay [paddy] other variety, dry (conv. to 14% mc)",2020-06-01,19.81
 bangsamoro autonomous region in muslim mindanao (barmm),"palay [paddy] other variety, dry (conv. to 14% mc)",2020-07-01,18.54
@@ -179,19 +179,19 @@ bangsamoro autonomous region in muslim mindanao (barmm),"palay [paddy] other var
 bangsamoro autonomous region in muslim mindanao (barmm),"palay [paddy] other variety, dry (conv. to 14% mc)",2024-10-01,24.18
 bangsamoro autonomous region in muslim mindanao (barmm),"palay [paddy] other variety, dry (conv. to 14% mc)",2024-11-01,23.75
 bangsamoro autonomous region in muslim mindanao (barmm),"palay [paddy] other variety, dry (conv. to 14% mc)",2024-12-01,23.59
-cordillera administrative region (car),"corngrain [maize] yellow, matured",2020-01-01,
+cordillera administrative region (car),"corngrain [maize] yellow, matured",2020-01-01,12.77
 cordillera administrative region (car),"corngrain [maize] yellow, matured",2020-02-01,12.77
 cordillera administrative region (car),"corngrain [maize] yellow, matured",2020-03-01,11.37
 cordillera administrative region (car),"corngrain [maize] yellow, matured",2020-04-01,11.17
 cordillera administrative region (car),"corngrain [maize] yellow, matured",2020-05-01,11.3
 cordillera administrative region (car),"corngrain [maize] yellow, matured",2020-06-01,11.85
 cordillera administrative region (car),"corngrain [maize] yellow, matured",2020-07-01,10.22
-cordillera administrative region (car),"corngrain [maize] yellow, matured",2020-08-01,
+cordillera administrative region (car),"corngrain [maize] yellow, matured",2020-08-01,10.22
 cordillera administrative region (car),"corngrain [maize] yellow, matured",2020-09-01,10.63
 cordillera administrative region (car),"corngrain [maize] yellow, matured",2020-10-01,10.96
 cordillera administrative region (car),"corngrain [maize] yellow, matured",2020-11-01,11.26
 cordillera administrative region (car),"corngrain [maize] yellow, matured",2020-12-01,10.73
-cordillera administrative region (car),"corngrain [maize] yellow, matured",2021-01-01,
+cordillera administrative region (car),"corngrain [maize] yellow, matured",2021-01-01,10.73
 cordillera administrative region (car),"corngrain [maize] yellow, matured",2021-02-01,12.51
 cordillera administrative region (car),"corngrain [maize] yellow, matured",2021-03-01,12.01
 cordillera administrative region (car),"corngrain [maize] yellow, matured",2021-04-01,11.97
@@ -407,10 +407,10 @@ mimaropa region,"green corn (maize, green), white",2023-09-01,34.76
 mimaropa region,"green corn (maize, green), white",2023-10-01,32.52
 mimaropa region,"green corn (maize, green), white",2023-11-01,47.39
 mimaropa region,"green corn (maize, green), white",2023-12-01,55.27
-mimaropa region,"green corn (maize, green), white",2024-01-01,
-mimaropa region,"green corn (maize, green), white",2024-02-01,
-mimaropa region,"green corn (maize, green), white",2024-03-01,
-mimaropa region,"green corn (maize, green), white",2024-04-01,
+mimaropa region,"green corn (maize, green), white",2024-01-01,55.27
+mimaropa region,"green corn (maize, green), white",2024-02-01,55.27
+mimaropa region,"green corn (maize, green), white",2024-03-01,55.27
+mimaropa region,"green corn (maize, green), white",2024-04-01,55.27
 mimaropa region,"green corn (maize, green), white",2024-05-01,15.75
 mimaropa region,"green corn (maize, green), white",2024-06-01,31.7
 mimaropa region,"green corn (maize, green), white",2024-07-01,44.99
@@ -548,8 +548,8 @@ region i (ilocos region),"corngrain [maize] white, matured",2020-06-01,20.0
 region i (ilocos region),"corngrain [maize] white, matured",2020-07-01,18.3
 region i (ilocos region),"corngrain [maize] white, matured",2020-08-01,20.03
 region i (ilocos region),"corngrain [maize] white, matured",2020-09-01,22.49
-region i (ilocos region),"corngrain [maize] white, matured",2020-10-01,
-region i (ilocos region),"corngrain [maize] white, matured",2020-11-01,
+region i (ilocos region),"corngrain [maize] white, matured",2020-10-01,22.49
+region i (ilocos region),"corngrain [maize] white, matured",2020-11-01,22.49
 region i (ilocos region),"corngrain [maize] white, matured",2020-12-01,26.67
 region i (ilocos region),"corngrain [maize] white, matured",2021-01-01,24.46
 region i (ilocos region),"corngrain [maize] white, matured",2021-02-01,22.8
@@ -560,8 +560,8 @@ region i (ilocos region),"corngrain [maize] white, matured",2021-06-01,20.12
 region i (ilocos region),"corngrain [maize] white, matured",2021-07-01,16.88
 region i (ilocos region),"corngrain [maize] white, matured",2021-08-01,17.88
 region i (ilocos region),"corngrain [maize] white, matured",2021-09-01,21.79
-region i (ilocos region),"corngrain [maize] white, matured",2021-10-01,
-region i (ilocos region),"corngrain [maize] white, matured",2021-11-01,
+region i (ilocos region),"corngrain [maize] white, matured",2021-10-01,21.79
+region i (ilocos region),"corngrain [maize] white, matured",2021-11-01,21.79
 region i (ilocos region),"corngrain [maize] white, matured",2021-12-01,22.1
 region i (ilocos region),"corngrain [maize] white, matured",2022-01-01,23.84
 region i (ilocos region),"corngrain [maize] white, matured",2022-02-01,24.92
@@ -572,8 +572,8 @@ region i (ilocos region),"corngrain [maize] white, matured",2022-06-01,25.47
 region i (ilocos region),"corngrain [maize] white, matured",2022-07-01,25.3
 region i (ilocos region),"corngrain [maize] white, matured",2022-08-01,23.76
 region i (ilocos region),"corngrain [maize] white, matured",2022-09-01,27.75
-region i (ilocos region),"corngrain [maize] white, matured",2022-10-01,
-region i (ilocos region),"corngrain [maize] white, matured",2022-11-01,
+region i (ilocos region),"corngrain [maize] white, matured",2022-10-01,27.75
+region i (ilocos region),"corngrain [maize] white, matured",2022-11-01,27.75
 region i (ilocos region),"corngrain [maize] white, matured",2022-12-01,24.3
 region i (ilocos region),"corngrain [maize] white, matured",2023-01-01,38.99
 region i (ilocos region),"corngrain [maize] white, matured",2023-02-01,36.12
@@ -591,9 +591,9 @@ region i (ilocos region),"corngrain [maize] white, matured",2024-01-01,40.3
 region i (ilocos region),"corngrain [maize] white, matured",2024-02-01,40.25
 region i (ilocos region),"corngrain [maize] white, matured",2024-03-01,47.17
 region i (ilocos region),"corngrain [maize] white, matured",2024-04-01,31.73
-region i (ilocos region),"corngrain [maize] white, matured",2024-05-01,
+region i (ilocos region),"corngrain [maize] white, matured",2024-05-01,31.73
 region i (ilocos region),"corngrain [maize] white, matured",2024-06-01,26.67
-region i (ilocos region),"corngrain [maize] white, matured",2024-07-01,
+region i (ilocos region),"corngrain [maize] white, matured",2024-07-01,26.67
 region i (ilocos region),"corngrain [maize] white, matured",2024-08-01,35.0
 region i (ilocos region),"corngrain [maize] white, matured",2024-09-01,34.84
 region i (ilocos region),"corngrain [maize] white, matured",2024-10-01,55.48
@@ -620,8 +620,8 @@ region i (ilocos region),"corngrain [maize] yellow, matured",2021-06-01,14.46
 region i (ilocos region),"corngrain [maize] yellow, matured",2021-07-01,14.17
 region i (ilocos region),"corngrain [maize] yellow, matured",2021-08-01,15.18
 region i (ilocos region),"corngrain [maize] yellow, matured",2021-09-01,17.45
-region i (ilocos region),"corngrain [maize] yellow, matured",2021-10-01,
-region i (ilocos region),"corngrain [maize] yellow, matured",2021-11-01,
+region i (ilocos region),"corngrain [maize] yellow, matured",2021-10-01,17.45
+region i (ilocos region),"corngrain [maize] yellow, matured",2021-11-01,17.45
 region i (ilocos region),"corngrain [maize] yellow, matured",2021-12-01,14.8
 region i (ilocos region),"corngrain [maize] yellow, matured",2022-01-01,18.75
 region i (ilocos region),"corngrain [maize] yellow, matured",2022-02-01,18.06
@@ -632,8 +632,8 @@ region i (ilocos region),"corngrain [maize] yellow, matured",2022-06-01,19.44
 region i (ilocos region),"corngrain [maize] yellow, matured",2022-07-01,19.17
 region i (ilocos region),"corngrain [maize] yellow, matured",2022-08-01,21.0
 region i (ilocos region),"corngrain [maize] yellow, matured",2022-09-01,18.96
-region i (ilocos region),"corngrain [maize] yellow, matured",2022-10-01,
-region i (ilocos region),"corngrain [maize] yellow, matured",2022-11-01,
+region i (ilocos region),"corngrain [maize] yellow, matured",2022-10-01,18.96
+region i (ilocos region),"corngrain [maize] yellow, matured",2022-11-01,18.96
 region i (ilocos region),"corngrain [maize] yellow, matured",2022-12-01,19.98
 region i (ilocos region),"corngrain [maize] yellow, matured",2023-01-01,20.95
 region i (ilocos region),"corngrain [maize] yellow, matured",2023-02-01,21.03
@@ -644,8 +644,8 @@ region i (ilocos region),"corngrain [maize] yellow, matured",2023-06-01,18.26
 region i (ilocos region),"corngrain [maize] yellow, matured",2023-07-01,18.26
 region i (ilocos region),"corngrain [maize] yellow, matured",2023-08-01,15.05
 region i (ilocos region),"corngrain [maize] yellow, matured",2023-09-01,17.75
-region i (ilocos region),"corngrain [maize] yellow, matured",2023-10-01,
-region i (ilocos region),"corngrain [maize] yellow, matured",2023-11-01,
+region i (ilocos region),"corngrain [maize] yellow, matured",2023-10-01,17.75
+region i (ilocos region),"corngrain [maize] yellow, matured",2023-11-01,17.75
 region i (ilocos region),"corngrain [maize] yellow, matured",2023-12-01,19.69
 region i (ilocos region),"corngrain [maize] yellow, matured",2024-01-01,17.21
 region i (ilocos region),"corngrain [maize] yellow, matured",2024-02-01,17.18
@@ -707,13 +707,13 @@ region i (ilocos region),"green corn (maize, green), white",2023-09-01,25.58
 region i (ilocos region),"green corn (maize, green), white",2023-10-01,27.18
 region i (ilocos region),"green corn (maize, green), white",2023-11-01,25.75
 region i (ilocos region),"green corn (maize, green), white",2023-12-01,24.47
-region i (ilocos region),"green corn (maize, green), white",2024-01-01,
-region i (ilocos region),"green corn (maize, green), white",2024-02-01,
-region i (ilocos region),"green corn (maize, green), white",2024-03-01,
+region i (ilocos region),"green corn (maize, green), white",2024-01-01,24.47
+region i (ilocos region),"green corn (maize, green), white",2024-02-01,24.47
+region i (ilocos region),"green corn (maize, green), white",2024-03-01,24.47
 region i (ilocos region),"green corn (maize, green), white",2024-04-01,15.31
 region i (ilocos region),"green corn (maize, green), white",2024-05-01,15.0
 region i (ilocos region),"green corn (maize, green), white",2024-06-01,28.76
-region i (ilocos region),"green corn (maize, green), white",2024-07-01,
+region i (ilocos region),"green corn (maize, green), white",2024-07-01,28.76
 region i (ilocos region),"green corn (maize, green), white",2024-08-01,14.0
 region i (ilocos region),"green corn (maize, green), white",2024-09-01,29.5
 region i (ilocos region),"green corn (maize, green), white",2024-10-01,28.0
@@ -785,48 +785,48 @@ region ii (cagayan valley),"corngrain [maize] yellow, matured",2020-03-01,12.09
 region ii (cagayan valley),"corngrain [maize] yellow, matured",2020-04-01,11.93
 region ii (cagayan valley),"corngrain [maize] yellow, matured",2020-05-01,12.09
 region ii (cagayan valley),"corngrain [maize] yellow, matured",2020-06-01,12.32
-region ii (cagayan valley),"corngrain [maize] yellow, matured",2020-07-01,
+region ii (cagayan valley),"corngrain [maize] yellow, matured",2020-07-01,12.32
 region ii (cagayan valley),"corngrain [maize] yellow, matured",2020-08-01,13.3
 region ii (cagayan valley),"corngrain [maize] yellow, matured",2020-09-01,11.18
 region ii (cagayan valley),"corngrain [maize] yellow, matured",2020-10-01,11.29
 region ii (cagayan valley),"corngrain [maize] yellow, matured",2020-11-01,11.96
-region ii (cagayan valley),"corngrain [maize] yellow, matured",2020-12-01,
+region ii (cagayan valley),"corngrain [maize] yellow, matured",2020-12-01,11.96
 region ii (cagayan valley),"corngrain [maize] yellow, matured",2021-01-01,13.63
 region ii (cagayan valley),"corngrain [maize] yellow, matured",2021-02-01,11.99
 region ii (cagayan valley),"corngrain [maize] yellow, matured",2021-03-01,12.42
 region ii (cagayan valley),"corngrain [maize] yellow, matured",2021-04-01,12.87
 region ii (cagayan valley),"corngrain [maize] yellow, matured",2021-05-01,13.28
 region ii (cagayan valley),"corngrain [maize] yellow, matured",2021-06-01,14.07
-region ii (cagayan valley),"corngrain [maize] yellow, matured",2021-07-01,
+region ii (cagayan valley),"corngrain [maize] yellow, matured",2021-07-01,14.07
 region ii (cagayan valley),"corngrain [maize] yellow, matured",2021-08-01,12.19
 region ii (cagayan valley),"corngrain [maize] yellow, matured",2021-09-01,15.57
 region ii (cagayan valley),"corngrain [maize] yellow, matured",2021-10-01,15.73
 region ii (cagayan valley),"corngrain [maize] yellow, matured",2021-11-01,17.24
-region ii (cagayan valley),"corngrain [maize] yellow, matured",2021-12-01,
-region ii (cagayan valley),"corngrain [maize] yellow, matured",2022-01-01,
+region ii (cagayan valley),"corngrain [maize] yellow, matured",2021-12-01,17.24
+region ii (cagayan valley),"corngrain [maize] yellow, matured",2022-01-01,17.24
 region ii (cagayan valley),"corngrain [maize] yellow, matured",2022-02-01,15.95
 region ii (cagayan valley),"corngrain [maize] yellow, matured",2022-03-01,16.72
 region ii (cagayan valley),"corngrain [maize] yellow, matured",2022-04-01,17.07
 region ii (cagayan valley),"corngrain [maize] yellow, matured",2022-05-01,17.94
-region ii (cagayan valley),"corngrain [maize] yellow, matured",2022-06-01,
-region ii (cagayan valley),"corngrain [maize] yellow, matured",2022-07-01,
+region ii (cagayan valley),"corngrain [maize] yellow, matured",2022-06-01,17.94
+region ii (cagayan valley),"corngrain [maize] yellow, matured",2022-07-01,17.94
 region ii (cagayan valley),"corngrain [maize] yellow, matured",2022-08-01,16.86
 region ii (cagayan valley),"corngrain [maize] yellow, matured",2022-09-01,17.3
 region ii (cagayan valley),"corngrain [maize] yellow, matured",2022-10-01,17.91
 region ii (cagayan valley),"corngrain [maize] yellow, matured",2022-11-01,17.41
-region ii (cagayan valley),"corngrain [maize] yellow, matured",2022-12-01,
-region ii (cagayan valley),"corngrain [maize] yellow, matured",2023-01-01,
+region ii (cagayan valley),"corngrain [maize] yellow, matured",2022-12-01,17.41
+region ii (cagayan valley),"corngrain [maize] yellow, matured",2023-01-01,17.41
 region ii (cagayan valley),"corngrain [maize] yellow, matured",2023-02-01,19.41
 region ii (cagayan valley),"corngrain [maize] yellow, matured",2023-03-01,18.59
 region ii (cagayan valley),"corngrain [maize] yellow, matured",2023-04-01,17.41
 region ii (cagayan valley),"corngrain [maize] yellow, matured",2023-05-01,18.33
-region ii (cagayan valley),"corngrain [maize] yellow, matured",2023-06-01,
-region ii (cagayan valley),"corngrain [maize] yellow, matured",2023-07-01,
+region ii (cagayan valley),"corngrain [maize] yellow, matured",2023-06-01,18.33
+region ii (cagayan valley),"corngrain [maize] yellow, matured",2023-07-01,18.33
 region ii (cagayan valley),"corngrain [maize] yellow, matured",2023-08-01,19.61
 region ii (cagayan valley),"corngrain [maize] yellow, matured",2023-09-01,17.55
 region ii (cagayan valley),"corngrain [maize] yellow, matured",2023-10-01,17.26
 region ii (cagayan valley),"corngrain [maize] yellow, matured",2023-11-01,18.48
-region ii (cagayan valley),"corngrain [maize] yellow, matured",2023-12-01,
+region ii (cagayan valley),"corngrain [maize] yellow, matured",2023-12-01,18.48
 region ii (cagayan valley),"corngrain [maize] yellow, matured",2024-01-01,13.81
 region ii (cagayan valley),"corngrain [maize] yellow, matured",2024-02-01,15.3
 region ii (cagayan valley),"corngrain [maize] yellow, matured",2024-03-01,15.95
@@ -899,7 +899,7 @@ region ii (cagayan valley),"palay [paddy] other variety, dry (conv. to 14% mc)",
 region ii (cagayan valley),"palay [paddy] other variety, dry (conv. to 14% mc)",2024-10-01,19.9
 region ii (cagayan valley),"palay [paddy] other variety, dry (conv. to 14% mc)",2024-11-01,19.76
 region ii (cagayan valley),"palay [paddy] other variety, dry (conv. to 14% mc)",2024-12-01,20.34
-region iii (central luzon),"corngrain [maize] yellow, matured",2020-01-01,
+region iii (central luzon),"corngrain [maize] yellow, matured",2020-01-01,11.36
 region iii (central luzon),"corngrain [maize] yellow, matured",2020-02-01,11.36
 region iii (central luzon),"corngrain [maize] yellow, matured",2020-03-01,10.88
 region iii (central luzon),"corngrain [maize] yellow, matured",2020-04-01,10.96
@@ -910,7 +910,7 @@ region iii (central luzon),"corngrain [maize] yellow, matured",2020-08-01,13.49
 region iii (central luzon),"corngrain [maize] yellow, matured",2020-09-01,10.64
 region iii (central luzon),"corngrain [maize] yellow, matured",2020-10-01,8.93
 region iii (central luzon),"corngrain [maize] yellow, matured",2020-11-01,10.35
-region iii (central luzon),"corngrain [maize] yellow, matured",2020-12-01,
+region iii (central luzon),"corngrain [maize] yellow, matured",2020-12-01,10.35
 region iii (central luzon),"corngrain [maize] yellow, matured",2021-01-01,11.47
 region iii (central luzon),"corngrain [maize] yellow, matured",2021-02-01,11.8
 region iii (central luzon),"corngrain [maize] yellow, matured",2021-03-01,11.32
@@ -945,8 +945,8 @@ region iii (central luzon),"corngrain [maize] yellow, matured",2023-07-01,15.03
 region iii (central luzon),"corngrain [maize] yellow, matured",2023-08-01,13.87
 region iii (central luzon),"corngrain [maize] yellow, matured",2023-09-01,14.81
 region iii (central luzon),"corngrain [maize] yellow, matured",2023-10-01,14.82
-region iii (central luzon),"corngrain [maize] yellow, matured",2023-11-01,
-region iii (central luzon),"corngrain [maize] yellow, matured",2023-12-01,
+region iii (central luzon),"corngrain [maize] yellow, matured",2023-11-01,14.82
+region iii (central luzon),"corngrain [maize] yellow, matured",2023-12-01,14.82
 region iii (central luzon),"corngrain [maize] yellow, matured",2024-01-01,13.3
 region iii (central luzon),"corngrain [maize] yellow, matured",2024-02-01,13.3
 region iii (central luzon),"corngrain [maize] yellow, matured",2024-03-01,12.73
@@ -1007,9 +1007,9 @@ region iii (central luzon),"green corn (maize, green), white",2023-09-01,25.4
 region iii (central luzon),"green corn (maize, green), white",2023-10-01,25.07
 region iii (central luzon),"green corn (maize, green), white",2023-11-01,25.0
 region iii (central luzon),"green corn (maize, green), white",2023-12-01,26.72
-region iii (central luzon),"green corn (maize, green), white",2024-01-01,
-region iii (central luzon),"green corn (maize, green), white",2024-02-01,
-region iii (central luzon),"green corn (maize, green), white",2024-03-01,
+region iii (central luzon),"green corn (maize, green), white",2024-01-01,26.72
+region iii (central luzon),"green corn (maize, green), white",2024-02-01,26.72
+region iii (central luzon),"green corn (maize, green), white",2024-03-01,26.72
 region iii (central luzon),"green corn (maize, green), white",2024-04-01,33.7
 region iii (central luzon),"green corn (maize, green), white",2024-05-01,30.79
 region iii (central luzon),"green corn (maize, green), white",2024-06-01,28.94
@@ -1036,9 +1036,9 @@ region iii (central luzon),"palay [paddy] fancy, dry (conv. to 14% mc)",2021-02-
 region iii (central luzon),"palay [paddy] fancy, dry (conv. to 14% mc)",2021-03-01,23.74
 region iii (central luzon),"palay [paddy] fancy, dry (conv. to 14% mc)",2021-04-01,23.74
 region iii (central luzon),"palay [paddy] fancy, dry (conv. to 14% mc)",2021-05-01,25.0
-region iii (central luzon),"palay [paddy] fancy, dry (conv. to 14% mc)",2021-06-01,
+region iii (central luzon),"palay [paddy] fancy, dry (conv. to 14% mc)",2021-06-01,25.0
 region iii (central luzon),"palay [paddy] fancy, dry (conv. to 14% mc)",2021-07-01,19.27
-region iii (central luzon),"palay [paddy] fancy, dry (conv. to 14% mc)",2021-08-01,
+region iii (central luzon),"palay [paddy] fancy, dry (conv. to 14% mc)",2021-08-01,19.27
 region iii (central luzon),"palay [paddy] fancy, dry (conv. to 14% mc)",2021-09-01,18.58
 region iii (central luzon),"palay [paddy] fancy, dry (conv. to 14% mc)",2021-10-01,17.25
 region iii (central luzon),"palay [paddy] fancy, dry (conv. to 14% mc)",2021-11-01,21.14
@@ -1050,19 +1050,19 @@ region iii (central luzon),"palay [paddy] fancy, dry (conv. to 14% mc)",2022-04-
 region iii (central luzon),"palay [paddy] fancy, dry (conv. to 14% mc)",2022-05-01,16.83
 region iii (central luzon),"palay [paddy] fancy, dry (conv. to 14% mc)",2022-06-01,18.23
 region iii (central luzon),"palay [paddy] fancy, dry (conv. to 14% mc)",2022-07-01,18.2
-region iii (central luzon),"palay [paddy] fancy, dry (conv. to 14% mc)",2022-08-01,
+region iii (central luzon),"palay [paddy] fancy, dry (conv. to 14% mc)",2022-08-01,18.2
 region iii (central luzon),"palay [paddy] fancy, dry (conv. to 14% mc)",2022-09-01,16.94
 region iii (central luzon),"palay [paddy] fancy, dry (conv. to 14% mc)",2022-10-01,19.53
 region iii (central luzon),"palay [paddy] fancy, dry (conv. to 14% mc)",2022-11-01,19.3
 region iii (central luzon),"palay [paddy] fancy, dry (conv. to 14% mc)",2022-12-01,21.77
-region iii (central luzon),"palay [paddy] fancy, dry (conv. to 14% mc)",2023-01-01,
+region iii (central luzon),"palay [paddy] fancy, dry (conv. to 14% mc)",2023-01-01,21.77
 region iii (central luzon),"palay [paddy] fancy, dry (conv. to 14% mc)",2023-02-01,20.19
 region iii (central luzon),"palay [paddy] fancy, dry (conv. to 14% mc)",2023-03-01,22.17
 region iii (central luzon),"palay [paddy] fancy, dry (conv. to 14% mc)",2023-04-01,21.89
 region iii (central luzon),"palay [paddy] fancy, dry (conv. to 14% mc)",2023-05-01,21.74
 region iii (central luzon),"palay [paddy] fancy, dry (conv. to 14% mc)",2023-06-01,23.74
-region iii (central luzon),"palay [paddy] fancy, dry (conv. to 14% mc)",2023-07-01,
-region iii (central luzon),"palay [paddy] fancy, dry (conv. to 14% mc)",2023-08-01,
+region iii (central luzon),"palay [paddy] fancy, dry (conv. to 14% mc)",2023-07-01,23.74
+region iii (central luzon),"palay [paddy] fancy, dry (conv. to 14% mc)",2023-08-01,23.74
 region iii (central luzon),"palay [paddy] fancy, dry (conv. to 14% mc)",2023-09-01,21.0
 region iii (central luzon),"palay [paddy] fancy, dry (conv. to 14% mc)",2023-10-01,23.32
 region iii (central luzon),"palay [paddy] fancy, dry (conv. to 14% mc)",2023-11-01,23.66
@@ -1073,8 +1073,8 @@ region iii (central luzon),"palay [paddy] fancy, dry (conv. to 14% mc)",2024-03-
 region iii (central luzon),"palay [paddy] fancy, dry (conv. to 14% mc)",2024-04-01,24.57
 region iii (central luzon),"palay [paddy] fancy, dry (conv. to 14% mc)",2024-05-01,29.75
 region iii (central luzon),"palay [paddy] fancy, dry (conv. to 14% mc)",2024-06-01,24.29
-region iii (central luzon),"palay [paddy] fancy, dry (conv. to 14% mc)",2024-07-01,
-region iii (central luzon),"palay [paddy] fancy, dry (conv. to 14% mc)",2024-08-01,
+region iii (central luzon),"palay [paddy] fancy, dry (conv. to 14% mc)",2024-07-01,24.29
+region iii (central luzon),"palay [paddy] fancy, dry (conv. to 14% mc)",2024-08-01,24.29
 region iii (central luzon),"palay [paddy] fancy, dry (conv. to 14% mc)",2024-09-01,18.17
 region iii (central luzon),"palay [paddy] fancy, dry (conv. to 14% mc)",2024-10-01,19.67
 region iii (central luzon),"palay [paddy] fancy, dry (conv. to 14% mc)",2024-11-01,21.15
@@ -1144,9 +1144,9 @@ region iv-a (calabarzon),"corngrain [maize] yellow, matured",2020-02-01,15.78
 region iv-a (calabarzon),"corngrain [maize] yellow, matured",2020-03-01,13.18
 region iv-a (calabarzon),"corngrain [maize] yellow, matured",2020-04-01,14.35
 region iv-a (calabarzon),"corngrain [maize] yellow, matured",2020-05-01,13.04
-region iv-a (calabarzon),"corngrain [maize] yellow, matured",2020-06-01,
-region iv-a (calabarzon),"corngrain [maize] yellow, matured",2020-07-01,
-region iv-a (calabarzon),"corngrain [maize] yellow, matured",2020-08-01,
+region iv-a (calabarzon),"corngrain [maize] yellow, matured",2020-06-01,13.04
+region iv-a (calabarzon),"corngrain [maize] yellow, matured",2020-07-01,13.04
+region iv-a (calabarzon),"corngrain [maize] yellow, matured",2020-08-01,13.04
 region iv-a (calabarzon),"corngrain [maize] yellow, matured",2020-09-01,12.74
 region iv-a (calabarzon),"corngrain [maize] yellow, matured",2020-10-01,15.92
 region iv-a (calabarzon),"corngrain [maize] yellow, matured",2020-11-01,12.68
@@ -1156,9 +1156,9 @@ region iv-a (calabarzon),"corngrain [maize] yellow, matured",2021-02-01,16.29
 region iv-a (calabarzon),"corngrain [maize] yellow, matured",2021-03-01,13.4
 region iv-a (calabarzon),"corngrain [maize] yellow, matured",2021-04-01,14.01
 region iv-a (calabarzon),"corngrain [maize] yellow, matured",2021-05-01,17.0
-region iv-a (calabarzon),"corngrain [maize] yellow, matured",2021-06-01,
-region iv-a (calabarzon),"corngrain [maize] yellow, matured",2021-07-01,
-region iv-a (calabarzon),"corngrain [maize] yellow, matured",2021-08-01,
+region iv-a (calabarzon),"corngrain [maize] yellow, matured",2021-06-01,17.0
+region iv-a (calabarzon),"corngrain [maize] yellow, matured",2021-07-01,17.0
+region iv-a (calabarzon),"corngrain [maize] yellow, matured",2021-08-01,17.0
 region iv-a (calabarzon),"corngrain [maize] yellow, matured",2021-09-01,18.74
 region iv-a (calabarzon),"corngrain [maize] yellow, matured",2021-10-01,18.16
 region iv-a (calabarzon),"corngrain [maize] yellow, matured",2021-11-01,17.3
@@ -1167,10 +1167,10 @@ region iv-a (calabarzon),"corngrain [maize] yellow, matured",2022-01-01,19.49
 region iv-a (calabarzon),"corngrain [maize] yellow, matured",2022-02-01,19.5
 region iv-a (calabarzon),"corngrain [maize] yellow, matured",2022-03-01,18.92
 region iv-a (calabarzon),"corngrain [maize] yellow, matured",2022-04-01,18.54
-region iv-a (calabarzon),"corngrain [maize] yellow, matured",2022-05-01,
-region iv-a (calabarzon),"corngrain [maize] yellow, matured",2022-06-01,
-region iv-a (calabarzon),"corngrain [maize] yellow, matured",2022-07-01,
-region iv-a (calabarzon),"corngrain [maize] yellow, matured",2022-08-01,
+region iv-a (calabarzon),"corngrain [maize] yellow, matured",2022-05-01,18.54
+region iv-a (calabarzon),"corngrain [maize] yellow, matured",2022-06-01,18.54
+region iv-a (calabarzon),"corngrain [maize] yellow, matured",2022-07-01,18.54
+region iv-a (calabarzon),"corngrain [maize] yellow, matured",2022-08-01,18.54
 region iv-a (calabarzon),"corngrain [maize] yellow, matured",2022-09-01,19.22
 region iv-a (calabarzon),"corngrain [maize] yellow, matured",2022-10-01,19.47
 region iv-a (calabarzon),"corngrain [maize] yellow, matured",2022-11-01,20.17
@@ -1182,7 +1182,7 @@ region iv-a (calabarzon),"corngrain [maize] yellow, matured",2023-04-01,20.7
 region iv-a (calabarzon),"corngrain [maize] yellow, matured",2023-05-01,20.0
 region iv-a (calabarzon),"corngrain [maize] yellow, matured",2023-06-01,20.0
 region iv-a (calabarzon),"corngrain [maize] yellow, matured",2023-07-01,33.78
-region iv-a (calabarzon),"corngrain [maize] yellow, matured",2023-08-01,
+region iv-a (calabarzon),"corngrain [maize] yellow, matured",2023-08-01,33.78
 region iv-a (calabarzon),"corngrain [maize] yellow, matured",2023-09-01,21.06
 region iv-a (calabarzon),"corngrain [maize] yellow, matured",2023-10-01,20.34
 region iv-a (calabarzon),"corngrain [maize] yellow, matured",2023-11-01,21.06
@@ -1191,8 +1191,8 @@ region iv-a (calabarzon),"corngrain [maize] yellow, matured",2024-01-01,21.04
 region iv-a (calabarzon),"corngrain [maize] yellow, matured",2024-02-01,19.99
 region iv-a (calabarzon),"corngrain [maize] yellow, matured",2024-03-01,15.92
 region iv-a (calabarzon),"corngrain [maize] yellow, matured",2024-04-01,15.37
-region iv-a (calabarzon),"corngrain [maize] yellow, matured",2024-05-01,
-region iv-a (calabarzon),"corngrain [maize] yellow, matured",2024-06-01,
+region iv-a (calabarzon),"corngrain [maize] yellow, matured",2024-05-01,15.37
+region iv-a (calabarzon),"corngrain [maize] yellow, matured",2024-06-01,15.37
 region iv-a (calabarzon),"corngrain [maize] yellow, matured",2024-07-01,15.0
 region iv-a (calabarzon),"corngrain [maize] yellow, matured",2024-08-01,8.0
 region iv-a (calabarzon),"corngrain [maize] yellow, matured",2024-09-01,17.32
@@ -1247,9 +1247,9 @@ region iv-a (calabarzon),"green corn (maize, green), white",2023-09-01,39.57
 region iv-a (calabarzon),"green corn (maize, green), white",2023-10-01,33.93
 region iv-a (calabarzon),"green corn (maize, green), white",2023-11-01,29.49
 region iv-a (calabarzon),"green corn (maize, green), white",2023-12-01,35.77
-region iv-a (calabarzon),"green corn (maize, green), white",2024-01-01,
-region iv-a (calabarzon),"green corn (maize, green), white",2024-02-01,
-region iv-a (calabarzon),"green corn (maize, green), white",2024-03-01,
+region iv-a (calabarzon),"green corn (maize, green), white",2024-01-01,35.77
+region iv-a (calabarzon),"green corn (maize, green), white",2024-02-01,35.77
+region iv-a (calabarzon),"green corn (maize, green), white",2024-03-01,35.77
 region iv-a (calabarzon),"green corn (maize, green), white",2024-04-01,34.06
 region iv-a (calabarzon),"green corn (maize, green), white",2024-05-01,40.0
 region iv-a (calabarzon),"green corn (maize, green), white",2024-06-01,49.49
@@ -1371,8 +1371,8 @@ region ix (zamboanga peninsula),"corngrain [maize] white, matured",2024-01-01,16
 region ix (zamboanga peninsula),"corngrain [maize] white, matured",2024-02-01,16.79
 region ix (zamboanga peninsula),"corngrain [maize] white, matured",2024-03-01,16.05
 region ix (zamboanga peninsula),"corngrain [maize] white, matured",2024-04-01,18.42
-region ix (zamboanga peninsula),"corngrain [maize] white, matured",2024-05-01,
-region ix (zamboanga peninsula),"corngrain [maize] white, matured",2024-06-01,
+region ix (zamboanga peninsula),"corngrain [maize] white, matured",2024-05-01,18.42
+region ix (zamboanga peninsula),"corngrain [maize] white, matured",2024-06-01,18.42
 region ix (zamboanga peninsula),"corngrain [maize] white, matured",2024-07-01,18.09
 region ix (zamboanga peninsula),"corngrain [maize] white, matured",2024-08-01,16.64
 region ix (zamboanga peninsula),"corngrain [maize] white, matured",2024-09-01,16.8
@@ -1432,13 +1432,13 @@ region ix (zamboanga peninsula),"corngrain [maize] yellow, matured",2024-02-01,1
 region ix (zamboanga peninsula),"corngrain [maize] yellow, matured",2024-03-01,12.29
 region ix (zamboanga peninsula),"corngrain [maize] yellow, matured",2024-04-01,16.0
 region ix (zamboanga peninsula),"corngrain [maize] yellow, matured",2024-05-01,17.0
-region ix (zamboanga peninsula),"corngrain [maize] yellow, matured",2024-06-01,
+region ix (zamboanga peninsula),"corngrain [maize] yellow, matured",2024-06-01,17.0
 region ix (zamboanga peninsula),"corngrain [maize] yellow, matured",2024-07-01,31.95
-region ix (zamboanga peninsula),"corngrain [maize] yellow, matured",2024-08-01,
+region ix (zamboanga peninsula),"corngrain [maize] yellow, matured",2024-08-01,31.95
 region ix (zamboanga peninsula),"corngrain [maize] yellow, matured",2024-09-01,29.11
 region ix (zamboanga peninsula),"corngrain [maize] yellow, matured",2024-10-01,12.78
 region ix (zamboanga peninsula),"corngrain [maize] yellow, matured",2024-11-01,13.12
-region ix (zamboanga peninsula),"corngrain [maize] yellow, matured",2024-12-01,
+region ix (zamboanga peninsula),"corngrain [maize] yellow, matured",2024-12-01,13.12
 region ix (zamboanga peninsula),"palay [paddy] other variety, dry (conv. to 14% mc)",2020-01-01,14.94
 region ix (zamboanga peninsula),"palay [paddy] other variety, dry (conv. to 14% mc)",2020-02-01,15.27
 region ix (zamboanga peninsula),"palay [paddy] other variety, dry (conv. to 14% mc)",2020-03-01,16.65
@@ -1511,8 +1511,8 @@ region v (bicol region),"corngrain [maize] yellow, matured",2020-09-01,12.23
 region v (bicol region),"corngrain [maize] yellow, matured",2020-10-01,12.36
 region v (bicol region),"corngrain [maize] yellow, matured",2020-11-01,14.14
 region v (bicol region),"corngrain [maize] yellow, matured",2020-12-01,12.8
-region v (bicol region),"corngrain [maize] yellow, matured",2021-01-01,
-region v (bicol region),"corngrain [maize] yellow, matured",2021-02-01,
+region v (bicol region),"corngrain [maize] yellow, matured",2021-01-01,12.8
+region v (bicol region),"corngrain [maize] yellow, matured",2021-02-01,12.8
 region v (bicol region),"corngrain [maize] yellow, matured",2021-03-01,13.05
 region v (bicol region),"corngrain [maize] yellow, matured",2021-04-01,12.84
 region v (bicol region),"corngrain [maize] yellow, matured",2021-05-01,12.72
@@ -1523,8 +1523,8 @@ region v (bicol region),"corngrain [maize] yellow, matured",2021-09-01,14.8
 region v (bicol region),"corngrain [maize] yellow, matured",2021-10-01,15.03
 region v (bicol region),"corngrain [maize] yellow, matured",2021-11-01,13.31
 region v (bicol region),"corngrain [maize] yellow, matured",2021-12-01,11.43
-region v (bicol region),"corngrain [maize] yellow, matured",2022-01-01,
-region v (bicol region),"corngrain [maize] yellow, matured",2022-02-01,
+region v (bicol region),"corngrain [maize] yellow, matured",2022-01-01,11.43
+region v (bicol region),"corngrain [maize] yellow, matured",2022-02-01,11.43
 region v (bicol region),"corngrain [maize] yellow, matured",2022-03-01,17.83
 region v (bicol region),"corngrain [maize] yellow, matured",2022-04-01,18.26
 region v (bicol region),"corngrain [maize] yellow, matured",2022-05-01,18.25
@@ -1558,7 +1558,7 @@ region v (bicol region),"corngrain [maize] yellow, matured",2024-08-01,16.06
 region v (bicol region),"corngrain [maize] yellow, matured",2024-09-01,13.87
 region v (bicol region),"corngrain [maize] yellow, matured",2024-10-01,14.51
 region v (bicol region),"corngrain [maize] yellow, matured",2024-11-01,15.36
-region v (bicol region),"corngrain [maize] yellow, matured",2024-12-01,
+region v (bicol region),"corngrain [maize] yellow, matured",2024-12-01,15.36
 region v (bicol region),"green corn (maize, green), white",2020-01-01,14.33
 region v (bicol region),"green corn (maize, green), white",2020-02-01,21.17
 region v (bicol region),"green corn (maize, green), white",2020-03-01,25.09
@@ -1607,9 +1607,9 @@ region v (bicol region),"green corn (maize, green), white",2023-09-01,34.47
 region v (bicol region),"green corn (maize, green), white",2023-10-01,30.22
 region v (bicol region),"green corn (maize, green), white",2023-11-01,30.4
 region v (bicol region),"green corn (maize, green), white",2023-12-01,36.07
-region v (bicol region),"green corn (maize, green), white",2024-01-01,
-region v (bicol region),"green corn (maize, green), white",2024-02-01,
-region v (bicol region),"green corn (maize, green), white",2024-03-01,
+region v (bicol region),"green corn (maize, green), white",2024-01-01,36.07
+region v (bicol region),"green corn (maize, green), white",2024-02-01,36.07
+region v (bicol region),"green corn (maize, green), white",2024-03-01,36.07
 region v (bicol region),"green corn (maize, green), white",2024-04-01,20.41
 region v (bicol region),"green corn (maize, green), white",2024-05-01,24.04
 region v (bicol region),"green corn (maize, green), white",2024-06-01,18.48
@@ -1618,7 +1618,7 @@ region v (bicol region),"green corn (maize, green), white",2024-08-01,20.72
 region v (bicol region),"green corn (maize, green), white",2024-09-01,23.31
 region v (bicol region),"green corn (maize, green), white",2024-10-01,24.3
 region v (bicol region),"green corn (maize, green), white",2024-11-01,24.76
-region v (bicol region),"green corn (maize, green), white",2024-12-01,
+region v (bicol region),"green corn (maize, green), white",2024-12-01,24.76
 region v (bicol region),"palay [paddy] other variety, dry (conv. to 14% mc)",2020-01-01,16.01
 region v (bicol region),"palay [paddy] other variety, dry (conv. to 14% mc)",2020-02-01,14.49
 region v (bicol region),"palay [paddy] other variety, dry (conv. to 14% mc)",2020-03-01,15.77
@@ -1847,9 +1847,9 @@ region vi (western visayas),"green corn (maize, green), white",2023-09-01,25.58
 region vi (western visayas),"green corn (maize, green), white",2023-10-01,23.8
 region vi (western visayas),"green corn (maize, green), white",2023-11-01,27.0
 region vi (western visayas),"green corn (maize, green), white",2023-12-01,22.8
-region vi (western visayas),"green corn (maize, green), white",2024-01-01,
-region vi (western visayas),"green corn (maize, green), white",2024-02-01,
-region vi (western visayas),"green corn (maize, green), white",2024-03-01,
+region vi (western visayas),"green corn (maize, green), white",2024-01-01,22.8
+region vi (western visayas),"green corn (maize, green), white",2024-02-01,22.8
+region vi (western visayas),"green corn (maize, green), white",2024-03-01,22.8
 region vi (western visayas),"green corn (maize, green), white",2024-04-01,34.1
 region vi (western visayas),"green corn (maize, green), white",2024-05-01,38.4
 region vi (western visayas),"green corn (maize, green), white",2024-06-01,28.0
@@ -1972,44 +1972,44 @@ region vii (central visayas),"corngrain [maize] white, matured",2024-02-01,21.33
 region vii (central visayas),"corngrain [maize] white, matured",2024-03-01,16.85
 region vii (central visayas),"corngrain [maize] white, matured",2024-04-01,17.62
 region vii (central visayas),"corngrain [maize] white, matured",2024-05-01,31.89
-region vii (central visayas),"corngrain [maize] white, matured",2024-06-01,
+region vii (central visayas),"corngrain [maize] white, matured",2024-06-01,31.89
 region vii (central visayas),"corngrain [maize] white, matured",2024-07-01,15.99
-region vii (central visayas),"corngrain [maize] white, matured",2024-08-01,
+region vii (central visayas),"corngrain [maize] white, matured",2024-08-01,15.99
 region vii (central visayas),"corngrain [maize] white, matured",2024-09-01,16.17
 region vii (central visayas),"corngrain [maize] white, matured",2024-10-01,13.53
 region vii (central visayas),"corngrain [maize] white, matured",2024-11-01,13.4
-region vii (central visayas),"corngrain [maize] white, matured",2024-12-01,
+region vii (central visayas),"corngrain [maize] white, matured",2024-12-01,13.4
 region vii (central visayas),"corngrain [maize] yellow, matured",2020-01-01,11.0
 region vii (central visayas),"corngrain [maize] yellow, matured",2020-02-01,15.0
 region vii (central visayas),"corngrain [maize] yellow, matured",2020-03-01,15.0
-region vii (central visayas),"corngrain [maize] yellow, matured",2020-04-01,
+region vii (central visayas),"corngrain [maize] yellow, matured",2020-04-01,15.0
 region vii (central visayas),"corngrain [maize] yellow, matured",2020-05-01,15.0
-region vii (central visayas),"corngrain [maize] yellow, matured",2020-06-01,
-region vii (central visayas),"corngrain [maize] yellow, matured",2020-07-01,
+region vii (central visayas),"corngrain [maize] yellow, matured",2020-06-01,15.0
+region vii (central visayas),"corngrain [maize] yellow, matured",2020-07-01,15.0
 region vii (central visayas),"corngrain [maize] yellow, matured",2020-08-01,12.81
 region vii (central visayas),"corngrain [maize] yellow, matured",2020-09-01,14.73
 region vii (central visayas),"corngrain [maize] yellow, matured",2020-10-01,13.96
 region vii (central visayas),"corngrain [maize] yellow, matured",2020-11-01,14.0
-region vii (central visayas),"corngrain [maize] yellow, matured",2020-12-01,
-region vii (central visayas),"corngrain [maize] yellow, matured",2021-01-01,
+region vii (central visayas),"corngrain [maize] yellow, matured",2020-12-01,14.0
+region vii (central visayas),"corngrain [maize] yellow, matured",2021-01-01,14.0
 region vii (central visayas),"corngrain [maize] yellow, matured",2021-02-01,13.87
 region vii (central visayas),"corngrain [maize] yellow, matured",2021-03-01,14.8
 region vii (central visayas),"corngrain [maize] yellow, matured",2021-04-01,15.77
 region vii (central visayas),"corngrain [maize] yellow, matured",2021-05-01,15.0
 region vii (central visayas),"corngrain [maize] yellow, matured",2021-06-01,15.0
-region vii (central visayas),"corngrain [maize] yellow, matured",2021-07-01,
+region vii (central visayas),"corngrain [maize] yellow, matured",2021-07-01,15.0
 region vii (central visayas),"corngrain [maize] yellow, matured",2021-08-01,15.0
 region vii (central visayas),"corngrain [maize] yellow, matured",2021-09-01,16.0
 region vii (central visayas),"corngrain [maize] yellow, matured",2021-10-01,17.67
-region vii (central visayas),"corngrain [maize] yellow, matured",2021-11-01,
-region vii (central visayas),"corngrain [maize] yellow, matured",2021-12-01,
-region vii (central visayas),"corngrain [maize] yellow, matured",2022-01-01,
-region vii (central visayas),"corngrain [maize] yellow, matured",2022-02-01,
-region vii (central visayas),"corngrain [maize] yellow, matured",2022-03-01,
+region vii (central visayas),"corngrain [maize] yellow, matured",2021-11-01,17.67
+region vii (central visayas),"corngrain [maize] yellow, matured",2021-12-01,17.67
+region vii (central visayas),"corngrain [maize] yellow, matured",2022-01-01,17.67
+region vii (central visayas),"corngrain [maize] yellow, matured",2022-02-01,17.67
+region vii (central visayas),"corngrain [maize] yellow, matured",2022-03-01,17.67
 region vii (central visayas),"corngrain [maize] yellow, matured",2022-04-01,18.0
 region vii (central visayas),"corngrain [maize] yellow, matured",2022-05-01,17.07
 region vii (central visayas),"corngrain [maize] yellow, matured",2022-06-01,20.58
-region vii (central visayas),"corngrain [maize] yellow, matured",2022-07-01,
+region vii (central visayas),"corngrain [maize] yellow, matured",2022-07-01,20.58
 region vii (central visayas),"corngrain [maize] yellow, matured",2022-08-01,18.0
 region vii (central visayas),"corngrain [maize] yellow, matured",2022-09-01,17.72
 region vii (central visayas),"corngrain [maize] yellow, matured",2022-10-01,18.58
@@ -2020,8 +2020,8 @@ region vii (central visayas),"corngrain [maize] yellow, matured",2023-02-01,18.8
 region vii (central visayas),"corngrain [maize] yellow, matured",2023-03-01,23.82
 region vii (central visayas),"corngrain [maize] yellow, matured",2023-04-01,21.32
 region vii (central visayas),"corngrain [maize] yellow, matured",2023-05-01,15.6
-region vii (central visayas),"corngrain [maize] yellow, matured",2023-06-01,
-region vii (central visayas),"corngrain [maize] yellow, matured",2023-07-01,
+region vii (central visayas),"corngrain [maize] yellow, matured",2023-06-01,15.6
+region vii (central visayas),"corngrain [maize] yellow, matured",2023-07-01,15.6
 region vii (central visayas),"corngrain [maize] yellow, matured",2023-08-01,17.89
 region vii (central visayas),"corngrain [maize] yellow, matured",2023-09-01,16.92
 region vii (central visayas),"corngrain [maize] yellow, matured",2023-10-01,17.45
@@ -2031,14 +2031,14 @@ region vii (central visayas),"corngrain [maize] yellow, matured",2024-01-01,17.9
 region vii (central visayas),"corngrain [maize] yellow, matured",2024-02-01,14.15
 region vii (central visayas),"corngrain [maize] yellow, matured",2024-03-01,18.52
 region vii (central visayas),"corngrain [maize] yellow, matured",2024-04-01,35.0
-region vii (central visayas),"corngrain [maize] yellow, matured",2024-05-01,
-region vii (central visayas),"corngrain [maize] yellow, matured",2024-06-01,
+region vii (central visayas),"corngrain [maize] yellow, matured",2024-05-01,35.0
+region vii (central visayas),"corngrain [maize] yellow, matured",2024-06-01,35.0
 region vii (central visayas),"corngrain [maize] yellow, matured",2024-07-01,15.0
-region vii (central visayas),"corngrain [maize] yellow, matured",2024-08-01,
+region vii (central visayas),"corngrain [maize] yellow, matured",2024-08-01,15.0
 region vii (central visayas),"corngrain [maize] yellow, matured",2024-09-01,14.63
 region vii (central visayas),"corngrain [maize] yellow, matured",2024-10-01,14.85
 region vii (central visayas),"corngrain [maize] yellow, matured",2024-11-01,13.5
-region vii (central visayas),"corngrain [maize] yellow, matured",2024-12-01,
+region vii (central visayas),"corngrain [maize] yellow, matured",2024-12-01,13.5
 region vii (central visayas),"palay [paddy] other variety, dry (conv. to 14% mc)",2020-01-01,17.85
 region vii (central visayas),"palay [paddy] other variety, dry (conv. to 14% mc)",2020-02-01,17.65
 region vii (central visayas),"palay [paddy] other variety, dry (conv. to 14% mc)",2020-03-01,17.84
@@ -2099,20 +2099,20 @@ region vii (central visayas),"palay [paddy] other variety, dry (conv. to 14% mc)
 region vii (central visayas),"palay [paddy] other variety, dry (conv. to 14% mc)",2024-10-01,24.3
 region vii (central visayas),"palay [paddy] other variety, dry (conv. to 14% mc)",2024-11-01,20.73
 region vii (central visayas),"palay [paddy] other variety, dry (conv. to 14% mc)",2024-12-01,20.27
-region viii (eastern visayas),"corngrain [maize] white, matured",2020-01-01,
+region viii (eastern visayas),"corngrain [maize] white, matured",2020-01-01,9.4
 region viii (eastern visayas),"corngrain [maize] white, matured",2020-02-01,9.4
 region viii (eastern visayas),"corngrain [maize] white, matured",2020-03-01,17.27
 region viii (eastern visayas),"corngrain [maize] white, matured",2020-04-01,9.51
 region viii (eastern visayas),"corngrain [maize] white, matured",2020-05-01,14.63
 region viii (eastern visayas),"corngrain [maize] white, matured",2020-06-01,12.33
 region viii (eastern visayas),"corngrain [maize] white, matured",2020-07-01,12.0
-region viii (eastern visayas),"corngrain [maize] white, matured",2020-08-01,
+region viii (eastern visayas),"corngrain [maize] white, matured",2020-08-01,12.0
 region viii (eastern visayas),"corngrain [maize] white, matured",2020-09-01,12.26
 region viii (eastern visayas),"corngrain [maize] white, matured",2020-10-01,10.34
 region viii (eastern visayas),"corngrain [maize] white, matured",2020-11-01,11.41
-region viii (eastern visayas),"corngrain [maize] white, matured",2020-12-01,
-region viii (eastern visayas),"corngrain [maize] white, matured",2021-01-01,
-region viii (eastern visayas),"corngrain [maize] white, matured",2021-02-01,
+region viii (eastern visayas),"corngrain [maize] white, matured",2020-12-01,11.41
+region viii (eastern visayas),"corngrain [maize] white, matured",2021-01-01,11.41
+region viii (eastern visayas),"corngrain [maize] white, matured",2021-02-01,11.41
 region viii (eastern visayas),"corngrain [maize] white, matured",2021-03-01,12.78
 region viii (eastern visayas),"corngrain [maize] white, matured",2021-04-01,9.24
 region viii (eastern visayas),"corngrain [maize] white, matured",2021-05-01,10.47
@@ -2124,17 +2124,17 @@ region viii (eastern visayas),"corngrain [maize] white, matured",2021-10-01,10.0
 region viii (eastern visayas),"corngrain [maize] white, matured",2021-11-01,11.22
 region viii (eastern visayas),"corngrain [maize] white, matured",2021-12-01,13.46
 region viii (eastern visayas),"corngrain [maize] white, matured",2022-01-01,14.11
-region viii (eastern visayas),"corngrain [maize] white, matured",2022-02-01,
+region viii (eastern visayas),"corngrain [maize] white, matured",2022-02-01,14.11
 region viii (eastern visayas),"corngrain [maize] white, matured",2022-03-01,8.58
 region viii (eastern visayas),"corngrain [maize] white, matured",2022-04-01,10.8
 region viii (eastern visayas),"corngrain [maize] white, matured",2022-05-01,11.64
 region viii (eastern visayas),"corngrain [maize] white, matured",2022-06-01,13.5
 region viii (eastern visayas),"corngrain [maize] white, matured",2022-07-01,11.0
-region viii (eastern visayas),"corngrain [maize] white, matured",2022-08-01,
+region viii (eastern visayas),"corngrain [maize] white, matured",2022-08-01,11.0
 region viii (eastern visayas),"corngrain [maize] white, matured",2022-09-01,9.26
 region viii (eastern visayas),"corngrain [maize] white, matured",2022-10-01,9.99
 region viii (eastern visayas),"corngrain [maize] white, matured",2022-11-01,12.09
-region viii (eastern visayas),"corngrain [maize] white, matured",2022-12-01,
+region viii (eastern visayas),"corngrain [maize] white, matured",2022-12-01,12.09
 region viii (eastern visayas),"corngrain [maize] white, matured",2023-01-01,40.0
 region viii (eastern visayas),"corngrain [maize] white, matured",2023-02-01,34.2
 region viii (eastern visayas),"corngrain [maize] white, matured",2023-03-01,24.94
@@ -2271,7 +2271,7 @@ region x (northern mindanao),"corngrain [maize] white, matured",2024-01-01,16.52
 region x (northern mindanao),"corngrain [maize] white, matured",2024-02-01,15.64
 region x (northern mindanao),"corngrain [maize] white, matured",2024-03-01,14.0
 region x (northern mindanao),"corngrain [maize] white, matured",2024-04-01,18.79
-region x (northern mindanao),"corngrain [maize] white, matured",2024-05-01,
+region x (northern mindanao),"corngrain [maize] white, matured",2024-05-01,18.79
 region x (northern mindanao),"corngrain [maize] white, matured",2024-06-01,17.15
 region x (northern mindanao),"corngrain [maize] white, matured",2024-07-01,11.49
 region x (northern mindanao),"corngrain [maize] white, matured",2024-08-01,15.96
@@ -2916,9 +2916,9 @@ region xiii (caraga),"green corn (maize, green), white",2022-10-01,25.95
 region xiii (caraga),"green corn (maize, green), white",2022-11-01,30.65
 region xiii (caraga),"green corn (maize, green), white",2022-12-01,21.42
 region xiii (caraga),"green corn (maize, green), white",2023-01-01,22.0
-region xiii (caraga),"green corn (maize, green), white",2023-02-01,
+region xiii (caraga),"green corn (maize, green), white",2023-02-01,22.0
 region xiii (caraga),"green corn (maize, green), white",2023-03-01,17.75
-region xiii (caraga),"green corn (maize, green), white",2023-04-01,
+region xiii (caraga),"green corn (maize, green), white",2023-04-01,17.75
 region xiii (caraga),"green corn (maize, green), white",2023-05-01,49.33
 region xiii (caraga),"green corn (maize, green), white",2023-06-01,27.59
 region xiii (caraga),"green corn (maize, green), white",2023-07-01,26.75
@@ -2927,9 +2927,9 @@ region xiii (caraga),"green corn (maize, green), white",2023-09-01,18.74
 region xiii (caraga),"green corn (maize, green), white",2023-10-01,18.74
 region xiii (caraga),"green corn (maize, green), white",2023-11-01,19.02
 region xiii (caraga),"green corn (maize, green), white",2023-12-01,18.69
-region xiii (caraga),"green corn (maize, green), white",2024-01-01,
-region xiii (caraga),"green corn (maize, green), white",2024-02-01,
-region xiii (caraga),"green corn (maize, green), white",2024-03-01,
+region xiii (caraga),"green corn (maize, green), white",2024-01-01,18.69
+region xiii (caraga),"green corn (maize, green), white",2024-02-01,18.69
+region xiii (caraga),"green corn (maize, green), white",2024-03-01,18.69
 region xiii (caraga),"green corn (maize, green), white",2024-04-01,18.86
 region xiii (caraga),"green corn (maize, green), white",2024-05-01,25.71
 region xiii (caraga),"green corn (maize, green), white",2024-06-01,27.92
